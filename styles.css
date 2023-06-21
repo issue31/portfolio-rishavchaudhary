@@ -63,7 +63,7 @@ a:hover {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: ;
   padding: 50px 0 20px;
 }
 
@@ -145,9 +145,9 @@ a:hover {
 }
 
 .mountain {
-  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .rishav {
-  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
