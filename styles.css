@@ -138,3 +138,6 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+.mountain {
+  filter: drop-shadow(0 0 0.75rem white);
+}
