@@ -106,7 +106,7 @@ a:hover {
   width: 25%;
   float: right;
   margin-left: 30px;
-   box-shadow: rgba(156 ,252 ,248 ,1) 0px 8px 24px;
+  box-shadow: rgba(156 ,252 ,248 ,1) 0px 8px 24px;
 }
 
 .contact-message {
