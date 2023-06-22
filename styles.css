@@ -199,13 +199,13 @@ a:hover {
 }
 
 .text-container > span:nth-child(8) {
-  animation-delay: 1.5s;
+  animation-delay: 1.75s;
 }
 .text-container > span:nth-child(9) {
-  animation-delay: 1.5s;
+  animation-delay: 2.0s;
 }
 .text-container > span:nth-child(10) {
-  animation-delay: 1.5s;
+  animation-delay: 2.25s;
 }
 /* Animation */
 
